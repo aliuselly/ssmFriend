@@ -17,7 +17,7 @@
 <link rel="bookmark" href="/***/my.ico" type="image/x-icon" />
 --%>
 <%--    这个是修改图标的，不过呢，要是针对每个页面的修改的，有一个好的方法，不过不适合多项目的
-        就是去到，tomcat\webapps\ROOT\
+        就是去到，tomcat\webapps\ROOT\an
         里面直接替换这个 favicon.ico 文件即可，不过，现在这个 tomcat 的，我删除了而已
 --%>
     <link rel="shortcut icon" href="image/h7.ico">
