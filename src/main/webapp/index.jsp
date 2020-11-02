@@ -151,7 +151,7 @@
 <%--    页面底部--%>
     <div data-options="region:'south',split:true" style="height: 30px; color: rebeccapurple">
         <div id="copyrighDiv" style="text-align: center; font: 11px 'Lucida Console';">
-            Copyright @2020/10/29 aliuselly rights reserved | 本项目地址：
+            Copyright @2020/10/29 aliuselly rights reserved | 本项目地址：https://github.com/aliuselly/ssmFriend
         </div>
     </div>
 </body>
